@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"instance","Source":"../first_instance","Dir":"../first_instance"},{"Key":"bucket","Source":"../bucket","Dir":"../bucket"},{"Key":"database","Source":"../database","Dir":"../database"},{"Key":"vpc","Source":"../vpc_example","Dir":"../vpc_example"}]}
